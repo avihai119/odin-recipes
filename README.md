@@ -4,6 +4,7 @@ This project is a simple recipe website built as part of The Odin Project. The g
 
 Features
 Home Page: Displays links to different recipe pages.
+
 Recipe Pages: Each recipe page includes:
 A list of ingredients
 Step-by-step instructions
